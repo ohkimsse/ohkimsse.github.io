@@ -1,0 +1,55 @@
+body {
+  background-image: url(http://vignette2.wikia.nocookie.net/youtaites/images/a/a9/Background-radial-gradient-dark.jpg/revision/latest?cb=20150214024058);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Share', cursive;
+  font-size: 25;
+}
+section {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  margin-left: 280px;
+}
+
+img, p {
+  margin: 50px;
+}
+
+ul {
+  color: navy;
+}
+
+nav {
+  font-size: 30px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+.horizontal {
+    float: left;
+    position: absolute;
+    top: 180px;
+    width: 170px;
+    height: 345px;
+    margin: 15px;
+    border: 10px;
+}
+
+h3 {
+  font-size: 36px;
+}
+
+li {
+  font-size: 20px;
+}
+
+.reading {
+  margin-left: 50px;
+  margin-right: 50px;
+}
